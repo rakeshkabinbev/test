@@ -1,0 +1,3290 @@
+no here is the full sheet object
+{
+    "File Upload ": {
+        "!ref": "A1:I1048576",
+        "A1": {
+            "t": "s",
+            "v": "Constraint Type",
+            "r": "<t xml:space=\"preserve\">Constraint Type</t>",
+            "h": "Constraint Type",
+            "w": "Constraint Type"
+        },
+        "B1": {
+            "t": "s",
+            "v": "Package",
+            "r": "<t xml:space=\"preserve\">Package</t>",
+            "h": "Package",
+            "w": "Package"
+        },
+        "C1": {
+            "t": "s",
+            "v": "Business Unit",
+            "r": "<t xml:space=\"preserve\">Business Unit</t>",
+            "h": "Business Unit",
+            "w": "Business Unit"
+        },
+        "D1": {
+            "t": "s",
+            "v": "Spend Category",
+            "r": "<t xml:space=\"preserve\">Spend Category</t>",
+            "h": "Spend Category",
+            "w": "Spend Category"
+        },
+        "E1": {
+            "t": "s",
+            "v": "Region",
+            "r": "<t xml:space=\"preserve\">Region</t>",
+            "h": "Region",
+            "w": "Region"
+        },
+        "F1": {
+            "t": "s",
+            "v": "Brand",
+            "r": "<t xml:space=\"preserve\">Brand</t>",
+            "h": "Brand",
+            "w": "Brand"
+        },
+        "G1": {
+            "t": "s",
+            "v": "Team",
+            "r": "<t xml:space=\"preserve\">Team</t>",
+            "h": "Team",
+            "w": "Team"
+        },
+        "H1": {
+            "t": "s",
+            "v": "Amount",
+            "r": "<t xml:space=\"preserve\">Amount</t>",
+            "h": "Amount",
+            "w": " Amount ",
+            "c": [
+                {
+                    "a": " ",
+                    "t": "[Threaded comment]\n\nYour version of Excel allows you to read this threaded comment; however, any edits to it will get removed if the file is opened in a newer version of Excel. Learn more: https://go.microsoft.com/fwlink/?linkid=870924\n\nComment:\n    Free Text",
+                    "r": "<r><rPr><sz val=\"11\"/><color rgb=\"FF000000\"/><rFont val=\"Calibri\"/><family val=\"2\"/><charset val=\"1\"/></rPr><t xml:space=\"preserve\">[Threaded comment]&#10;&#10;Your version of Excel allows you to read this threaded comment; however, any edits to it will get removed if the file is opened in a newer version of Excel. Learn more: https://go.microsoft.com/fwlink/?linkid=870924&#10;&#10;Comment:&#10;    Free Text</t></r>",
+                    "T": false,
+                    "h": "<span style=\"font-size:11pt;\">[Threaded comment]<br/><br/>Your version of Excel allows you to read this threaded comment; however, any edits to it will get removed if the file is opened in a newer version of Excel. Learn more: https://go.microsoft.com/fwlink/?linkid=870924<br/><br/>Comment:<br/>    Free Text</span>"
+                }
+            ]
+        },
+        "I1": {
+            "t": "s",
+            "v": "Description",
+            "r": "<t xml:space=\"preserve\">Description</t>",
+            "h": "Description",
+            "w": "Description",
+            "c": [
+                {
+                    "a": " ",
+                    "t": "[Threaded comment]\n\nYour version of Excel allows you to read this threaded comment; however, any edits to it will get removed if the file is opened in a newer version of Excel. Learn more: https://go.microsoft.com/fwlink/?linkid=870924\n\nComment:\n    Free Text",
+                    "r": "<r><rPr><sz val=\"11\"/><color rgb=\"FF000000\"/><rFont val=\"Calibri\"/><family val=\"2\"/><charset val=\"1\"/></rPr><t xml:space=\"preserve\">[Threaded comment]&#10;&#10;Your version of Excel allows you to read this threaded comment; however, any edits to it will get removed if the file is opened in a newer version of Excel. Learn more: https://go.microsoft.com/fwlink/?linkid=870924&#10;&#10;Comment:&#10;    Free Text</t></r>",
+                    "T": false,
+                    "h": "<span style=\"font-size:11pt;\">[Threaded comment]<br/><br/>Your version of Excel allows you to read this threaded comment; however, any edits to it will get removed if the file is opened in a newer version of Excel. Learn more: https://go.microsoft.com/fwlink/?linkid=870924<br/><br/>Comment:<br/>    Free Text</span>"
+                }
+            ]
+        },
+        "A2": {
+            "t": "s",
+            "v": "Exact Amount",
+            "r": "<t xml:space=\"preserve\">Exact Amount</t>",
+            "h": "Exact Amount",
+            "w": "Exact Amount"
+        },
+        "B2": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "D2": {
+            "t": "s",
+            "v": "Sponsorship",
+            "r": "<t xml:space=\"preserve\">Sponsorship</t>",
+            "h": "Sponsorship",
+            "w": "Sponsorship"
+        },
+        "E2": {
+            "t": "s",
+            "v": "ALL",
+            "r": "<t xml:space=\"preserve\">ALL</t>",
+            "h": "ALL",
+            "w": "ALL"
+        },
+        "F2": {
+            "t": "s",
+            "v": "Michelob",
+            "r": "<t xml:space=\"preserve\">Michelob</t>",
+            "h": "Michelob",
+            "w": "Michelob"
+        },
+        "H2": {
+            "t": "n",
+            "v": 2500000,
+            "w": " $2,500,000 "
+        },
+        "A3": {
+            "t": "s",
+            "v": "Maximum Amount",
+            "r": "<t xml:space=\"preserve\">Maximum Amount</t>",
+            "h": "Maximum Amount",
+            "w": "Maximum Amount"
+        },
+        "B3": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "G3": {
+            "t": "s",
+            "v": "CA/Comms",
+            "r": "<t xml:space=\"preserve\">CA/Comms</t>",
+            "h": "CA/Comms",
+            "w": "CA/Comms"
+        },
+        "H3": {
+            "t": "n",
+            "v": 1300000,
+            "w": " $1,300,000 "
+        },
+        "A4": {
+            "t": "s",
+            "v": "Minimum Amount",
+            "r": "<t xml:space=\"preserve\">Minimum Amount</t>",
+            "h": "Minimum Amount",
+            "w": "Minimum Amount"
+        },
+        "B4": {
+            "t": "s",
+            "v": "Sales",
+            "r": "<t xml:space=\"preserve\">Sales</t>",
+            "h": "Sales",
+            "w": "Sales"
+        },
+        "E4": {
+            "t": "s",
+            "v": "Region 3",
+            "r": "<t xml:space=\"preserve\">Region 3</t>",
+            "h": "Region 3",
+            "w": "Region 3"
+        },
+        "H4": {
+            "t": "n",
+            "v": 1500000,
+            "w": " $1,500,000 "
+        },
+        "!margins": {
+            "left": 0.7,
+            "right": 0.7,
+            "top": 0.75,
+            "bottom": 0.75,
+            "header": 0.511805555555555,
+            "footer": 0.511805555555555
+        }
+    },
+    "questions": {
+        "!ref": "A1:A2",
+        "A1": {
+            "t": "s",
+            "v": "% of the total bgt allocation and absolute $ amnt",
+            "r": "<t xml:space=\"preserve\">% of the total bgt allocation and absolute $ amnt</t>",
+            "h": "% of the total bgt allocation and absolute $ amnt",
+            "w": "% of the total bgt allocation and absolute $ amnt"
+        },
+        "A2": {
+            "t": "s",
+            "v": "state and cp?",
+            "r": "<t xml:space=\"preserve\">state and cp?</t>",
+            "h": "state and cp?",
+            "w": "state and cp?"
+        },
+        "!margins": {
+            "left": 0.7,
+            "right": 0.7,
+            "top": 0.75,
+            "bottom": 0.75,
+            "header": 0.511805555555555,
+            "footer": 0.511805555555555
+        }
+    },
+    "Constraint Types": {
+        "!ref": "A1:A4",
+        "A1": {
+            "t": "s",
+            "v": "Contraint Type",
+            "r": "<t xml:space=\"preserve\">Contraint Type</t>",
+            "h": "Contraint Type",
+            "w": "Contraint Type"
+        },
+        "A2": {
+            "t": "s",
+            "v": "Maximum Amount",
+            "r": "<t xml:space=\"preserve\">Maximum Amount</t>",
+            "h": "Maximum Amount",
+            "w": "Maximum Amount"
+        },
+        "A3": {
+            "t": "s",
+            "v": "Minimum Amount",
+            "r": "<t xml:space=\"preserve\">Minimum Amount</t>",
+            "h": "Minimum Amount",
+            "w": "Minimum Amount"
+        },
+        "A4": {
+            "t": "s",
+            "v": "Exact Amount",
+            "r": "<t xml:space=\"preserve\">Exact Amount</t>",
+            "h": "Exact Amount",
+            "w": "Exact Amount"
+        },
+        "!margins": {
+            "left": 0.7,
+            "right": 0.7,
+            "top": 0.75,
+            "bottom": 0.75,
+            "header": 0.511805555555555,
+            "footer": 0.511805555555555
+        }
+    },
+    "Package": {
+        "!ref": "A1:A3",
+        "A1": {
+            "t": "s",
+            "v": "Package",
+            "r": "<t xml:space=\"preserve\">Package</t>",
+            "h": "Package",
+            "w": "Package"
+        },
+        "A2": {
+            "t": "s",
+            "v": "Sales",
+            "r": "<t xml:space=\"preserve\">Sales</t>",
+            "h": "Sales",
+            "w": "Sales"
+        },
+        "A3": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "!margins": {
+            "left": 0.7,
+            "right": 0.7,
+            "top": 0.75,
+            "bottom": 0.75,
+            "header": 0.511805555555555,
+            "footer": 0.511805555555555
+        }
+    },
+    "Business Unit": {
+        "!ref": "A1:B27",
+        "A1": {
+            "t": "s",
+            "v": "Business Unit",
+            "r": "<t xml:space=\"preserve\">Business Unit</t>",
+            "h": "Business Unit",
+            "w": "Business Unit"
+        },
+        "B1": {
+            "t": "s",
+            "v": "Gui's Business Unit",
+            "r": "<t xml:space=\"preserve\">Gui&apos;s Business Unit</t>",
+            "h": "Gui&apos;s Business Unit",
+            "w": "Gui's Business Unit"
+        },
+        "A2": {
+            "t": "s",
+            "v": "Canada Beer",
+            "r": "<t xml:space=\"preserve\">Canada Beer</t>",
+            "h": "Canada Beer",
+            "w": "Canada Beer"
+        },
+        "A3": {
+            "t": "s",
+            "v": "Factored Product",
+            "r": "<t xml:space=\"preserve\">Factored Product</t>",
+            "h": "Factored Product",
+            "w": "Factored Product"
+        },
+        "A4": {
+            "t": "s",
+            "v": "BARI Non DGO",
+            "r": "<t xml:space=\"preserve\">BARI Non DGO</t>",
+            "h": "BARI Non DGO",
+            "w": "BARI Non DGO"
+        },
+        "A5": {
+            "t": "s",
+            "v": "Craft Brewery",
+            "r": "<t xml:space=\"preserve\">Craft Brewery</t>",
+            "h": "Craft Brewery",
+            "w": "Craft Brewery"
+        },
+        "A6": {
+            "t": "s",
+            "v": "BARI DGO",
+            "r": "<t xml:space=\"preserve\">BARI DGO</t>",
+            "h": "BARI DGO",
+            "w": "BARI DGO"
+        },
+        "A7": {
+            "t": "s",
+            "v": "NFTs",
+            "r": "<t xml:space=\"preserve\">NFTs</t>",
+            "h": "NFTs",
+            "w": "NFTs"
+        },
+        "A8": {
+            "t": "s",
+            "v": "Flex DGO",
+            "r": "<t xml:space=\"preserve\">Flex DGO</t>",
+            "h": "Flex DGO",
+            "w": "Flex DGO"
+        },
+        "A9": {
+            "t": "s",
+            "v": "Canada DGO Spirits",
+            "r": "<t xml:space=\"preserve\">Canada DGO Spirits</t>",
+            "h": "Canada DGO Spirits",
+            "w": "Canada DGO Spirits"
+        },
+        "A10": {
+            "t": "s",
+            "v": "Craft Pubs",
+            "r": "<t xml:space=\"preserve\">Craft Pubs</t>",
+            "h": "Craft Pubs",
+            "w": "Craft Pubs"
+        },
+        "A11": {
+            "t": "s",
+            "v": "Craft eCommerce",
+            "r": "<t xml:space=\"preserve\">Craft eCommerce</t>",
+            "h": "Craft eCommerce",
+            "w": "Craft eCommerce"
+        },
+        "A12": {
+            "t": "s",
+            "v": "Packaging DGO",
+            "r": "<t xml:space=\"preserve\">Packaging DGO</t>",
+            "h": "Packaging DGO",
+            "w": "Packaging DGO"
+        },
+        "A13": {
+            "t": "s",
+            "v": "Beer Company",
+            "r": "<t xml:space=\"preserve\">Beer Company</t>",
+            "h": "Beer Company",
+            "w": "Beer Company"
+        },
+        "A14": {
+            "t": "s",
+            "v": "FMB & Seltzers",
+            "r": "<t xml:space=\"preserve\">FMB &amp; Seltzers</t>",
+            "h": "FMB &amp; Seltzers",
+            "w": "FMB & Seltzers"
+        },
+        "A15": {
+            "t": "s",
+            "v": "Teavana",
+            "r": "<t xml:space=\"preserve\">Teavana</t>",
+            "h": "Teavana",
+            "w": "Teavana"
+        },
+        "A16": {
+            "t": "s",
+            "v": "Promo&Other",
+            "r": "<t xml:space=\"preserve\">Promo&amp;Other</t>",
+            "h": "Promo&amp;Other",
+            "w": "Promo&Other"
+        },
+        "A17": {
+            "t": "s",
+            "v": "Canada Pubs",
+            "r": "<t xml:space=\"preserve\">Canada Pubs</t>",
+            "h": "Canada Pubs",
+            "w": "Canada Pubs"
+        },
+        "A18": {
+            "t": "s",
+            "v": "DGO Specialties",
+            "r": "<t xml:space=\"preserve\">DGO Specialties</t>",
+            "h": "DGO Specialties",
+            "w": "DGO Specialties"
+        },
+        "A19": {
+            "t": "s",
+            "v": "Wine & Spirits",
+            "r": "<t xml:space=\"preserve\">Wine &amp; Spirits</t>",
+            "h": "Wine &amp; Spirits",
+            "w": "Wine & Spirits"
+        },
+        "A20": {
+            "t": "s",
+            "v": "Packaging Non DGO",
+            "r": "<t xml:space=\"preserve\">Packaging Non DGO</t>",
+            "h": "Packaging Non DGO",
+            "w": "Packaging Non DGO"
+        },
+        "A21": {
+            "t": "s",
+            "v": "Non-Alc Adjacencies",
+            "r": "<t xml:space=\"preserve\">Non-Alc Adjacencies</t>",
+            "h": "Non-Alc Adjacencies",
+            "w": "Non-Alc Adjacencies"
+        },
+        "A22": {
+            "t": "s",
+            "v": "ABI&BPI",
+            "r": "<t xml:space=\"preserve\">ABI&amp;BPI</t>",
+            "h": "ABI&amp;BPI",
+            "w": "ABI&BPI"
+        },
+        "A23": {
+            "t": "s",
+            "v": "Canada DGO",
+            "r": "<t xml:space=\"preserve\">Canada DGO</t>",
+            "h": "Canada DGO",
+            "w": "Canada DGO"
+        },
+        "A24": {
+            "t": "s",
+            "v": "DGO eCommerce",
+            "r": "<t xml:space=\"preserve\">DGO eCommerce</t>",
+            "h": "DGO eCommerce",
+            "w": "DGO eCommerce"
+        },
+        "A25": {
+            "t": "s",
+            "v": "US Subcontracting",
+            "r": "<t xml:space=\"preserve\">US Subcontracting</t>",
+            "h": "US Subcontracting",
+            "w": "US Subcontracting"
+        },
+        "A26": {
+            "t": "s",
+            "v": "DGO Brand Experience",
+            "r": "<t xml:space=\"preserve\">DGO Brand Experience</t>",
+            "h": "DGO Brand Experience",
+            "w": "DGO Brand Experience"
+        },
+        "A27": {
+            "t": "s",
+            "v": "DGO Spirits",
+            "r": "<t xml:space=\"preserve\">DGO Spirits</t>",
+            "h": "DGO Spirits",
+            "w": "DGO Spirits"
+        },
+        "!margins": {
+            "left": 0.7,
+            "right": 0.7,
+            "top": 0.75,
+            "bottom": 0.75,
+            "header": 0.511805555555555,
+            "footer": 0.511805555555555
+        }
+    },
+    "Spend Category": {
+        "!ref": "A1:B44",
+        "A1": {
+            "t": "s",
+            "v": "Spend Category",
+            "r": "<t xml:space=\"preserve\">Spend Category</t>",
+            "h": "Spend Category",
+            "w": "Spend Category"
+        },
+        "B1": {
+            "t": "s",
+            "v": "Package",
+            "r": "<t xml:space=\"preserve\">Package</t>",
+            "h": "Package",
+            "w": "Package"
+        },
+        "A2": {
+            "t": "s",
+            "v": "Incentives",
+            "r": "<t xml:space=\"preserve\">Incentives</t>",
+            "h": "Incentives",
+            "w": "Incentives"
+        },
+        "B2": {
+            "t": "s",
+            "v": "Sales",
+            "r": "<t xml:space=\"preserve\">Sales</t>",
+            "h": "Sales",
+            "w": "Sales"
+        },
+        "A3": {
+            "t": "s",
+            "v": "Category & Data",
+            "r": "<t xml:space=\"preserve\">Category &amp; Data</t>",
+            "h": "Category &amp; Data",
+            "w": "Category & Data"
+        },
+        "B3": {
+            "t": "s",
+            "v": "Sales",
+            "r": "<t xml:space=\"preserve\">Sales</t>",
+            "h": "Sales",
+            "w": "Sales"
+        },
+        "A4": {
+            "t": "s",
+            "v": "Activation Army",
+            "r": "<t xml:space=\"preserve\">Activation Army</t>",
+            "h": "Activation Army",
+            "w": "Activation Army"
+        },
+        "B4": {
+            "t": "s",
+            "v": "Sales",
+            "r": "<t xml:space=\"preserve\">Sales</t>",
+            "h": "Sales",
+            "w": "Sales"
+        },
+        "A5": {
+            "t": "s",
+            "v": "Misc",
+            "r": "<t xml:space=\"preserve\">Misc</t>",
+            "h": "Misc",
+            "w": "Misc"
+        },
+        "B5": {
+            "t": "s",
+            "v": "Sales",
+            "r": "<t xml:space=\"preserve\">Sales</t>",
+            "h": "Sales",
+            "w": "Sales"
+        },
+        "A6": {
+            "t": "s",
+            "v": "POCM",
+            "r": "<t xml:space=\"preserve\">POCM</t>",
+            "h": "POCM",
+            "w": "POCM"
+        },
+        "B6": {
+            "t": "s",
+            "v": "Sales",
+            "r": "<t xml:space=\"preserve\">Sales</t>",
+            "h": "Sales",
+            "w": "Sales"
+        },
+        "A7": {
+            "t": "s",
+            "v": "Meetings",
+            "r": "<t xml:space=\"preserve\">Meetings</t>",
+            "h": "Meetings",
+            "w": "Meetings"
+        },
+        "B7": {
+            "t": "s",
+            "v": "Sales",
+            "r": "<t xml:space=\"preserve\">Sales</t>",
+            "h": "Sales",
+            "w": "Sales"
+        },
+        "A8": {
+            "t": "s",
+            "v": "Trade Marketing",
+            "r": "<t xml:space=\"preserve\">Trade Marketing</t>",
+            "h": "Trade Marketing",
+            "w": "Trade Marketing"
+        },
+        "B8": {
+            "t": "s",
+            "v": "Sales",
+            "r": "<t xml:space=\"preserve\">Sales</t>",
+            "h": "Sales",
+            "w": "Sales"
+        },
+        "A9": {
+            "t": "s",
+            "v": "EDGE/C4/Accelerator",
+            "r": "<t xml:space=\"preserve\">EDGE/C4/Accelerator</t>",
+            "h": "EDGE/C4/Accelerator",
+            "w": "EDGE/C4/Accelerator"
+        },
+        "B9": {
+            "t": "s",
+            "v": "Sales",
+            "r": "<t xml:space=\"preserve\">Sales</t>",
+            "h": "Sales",
+            "w": "Sales"
+        },
+        "A10": {
+            "t": "s",
+            "v": "Retailer Programming",
+            "r": "<t xml:space=\"preserve\">Retailer Programming</t>",
+            "h": "Retailer Programming",
+            "w": "Retailer Programming"
+        },
+        "B10": {
+            "t": "s",
+            "v": "Sales",
+            "r": "<t xml:space=\"preserve\">Sales</t>",
+            "h": "Sales",
+            "w": "Sales"
+        },
+        "A11": {
+            "t": "s",
+            "v": "Sponsorship Activation",
+            "r": "<t xml:space=\"preserve\">Sponsorship Activation</t>",
+            "h": "Sponsorship Activation",
+            "w": "Sponsorship Activation"
+        },
+        "B11": {
+            "t": "s",
+            "v": "Sales",
+            "r": "<t xml:space=\"preserve\">Sales</t>",
+            "h": "Sales",
+            "w": "Sales"
+        },
+        "A12": {
+            "t": "s",
+            "v": "Sponsorship Contracts",
+            "r": "<t xml:space=\"preserve\">Sponsorship Contracts</t>",
+            "h": "Sponsorship Contracts",
+            "w": "Sponsorship Contracts"
+        },
+        "B12": {
+            "t": "s",
+            "v": "Sales",
+            "r": "<t xml:space=\"preserve\">Sales</t>",
+            "h": "Sales",
+            "w": "Sales"
+        },
+        "A13": {
+            "t": "s",
+            "v": "CRM",
+            "r": "<t xml:space=\"preserve\">CRM</t>",
+            "h": "CRM",
+            "w": "CRM"
+        },
+        "B13": {
+            "t": "s",
+            "v": "Sales",
+            "r": "<t xml:space=\"preserve\">Sales</t>",
+            "h": "Sales",
+            "w": "Sales"
+        },
+        "A14": {
+            "t": "s",
+            "v": "Other Marketing",
+            "r": "<t xml:space=\"preserve\">Other Marketing</t>",
+            "h": "Other Marketing",
+            "w": "Other Marketing"
+        },
+        "B14": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A15": {
+            "t": "s",
+            "v": "Traditional Media Buying",
+            "r": "<t xml:space=\"preserve\">Traditional Media Buying</t>",
+            "h": "Traditional Media Buying",
+            "w": "Traditional Media Buying"
+        },
+        "B15": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A16": {
+            "t": "s",
+            "v": "Market Research",
+            "r": "<t xml:space=\"preserve\">Market Research</t>",
+            "h": "Market Research",
+            "w": "Market Research"
+        },
+        "B16": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A17": {
+            "t": "s",
+            "v": "Brand Research",
+            "r": "<t xml:space=\"preserve\">Brand Research</t>",
+            "h": "Brand Research",
+            "w": "Brand Research"
+        },
+        "B17": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A18": {
+            "t": "s",
+            "v": "Media Co-op",
+            "r": "<t xml:space=\"preserve\">Media Co-op</t>",
+            "h": "Media Co-op",
+            "w": "Media Co-op"
+        },
+        "B18": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A19": {
+            "t": "s",
+            "v": "Digital Media Buying",
+            "r": "<t xml:space=\"preserve\">Digital Media Buying</t>",
+            "h": "Digital Media Buying",
+            "w": "Digital Media Buying"
+        },
+        "B19": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A20": {
+            "t": "s",
+            "v": "Packaging",
+            "r": "<t xml:space=\"preserve\">Packaging</t>",
+            "h": "Packaging",
+            "w": "Packaging"
+        },
+        "B20": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A21": {
+            "t": "s",
+            "v": "Media LSSS",
+            "r": "<t xml:space=\"preserve\">Media LSSS</t>",
+            "h": "Media LSSS",
+            "w": "Media LSSS"
+        },
+        "B21": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A22": {
+            "t": "s",
+            "v": "Advertising Production",
+            "r": "<t xml:space=\"preserve\">Advertising Production</t>",
+            "h": "Advertising Production",
+            "w": "Advertising Production"
+        },
+        "B22": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A23": {
+            "t": "s",
+            "v": "Digital Productions",
+            "r": "<t xml:space=\"preserve\">Digital Productions</t>",
+            "h": "Digital Productions",
+            "w": "Digital Productions"
+        },
+        "B23": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A24": {
+            "t": "s",
+            "v": "Agency Fees - Variable",
+            "r": "<t xml:space=\"preserve\">Agency Fees - Variable</t>",
+            "h": "Agency Fees - Variable",
+            "w": "Agency Fees - Variable"
+        },
+        "B24": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A25": {
+            "t": "s",
+            "v": "Influencers",
+            "r": "<t xml:space=\"preserve\">Influencers</t>",
+            "h": "Influencers",
+            "w": "Influencers"
+        },
+        "B25": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A26": {
+            "t": "s",
+            "v": "Liquid",
+            "r": "<t xml:space=\"preserve\">Liquid</t>",
+            "h": "Liquid",
+            "w": "Liquid"
+        },
+        "B26": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A27": {
+            "t": "s",
+            "v": "Agency Fees - Draftline",
+            "r": "<t xml:space=\"preserve\">Agency Fees - Draftline</t>",
+            "h": "Agency Fees - Draftline",
+            "w": "Agency Fees - Draftline"
+        },
+        "B27": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A28": {
+            "t": "s",
+            "v": "Advertising Production - Draftline",
+            "r": "<t xml:space=\"preserve\">Advertising Production - Draftline</t>",
+            "h": "Advertising Production - Draftline",
+            "w": "Advertising Production - Draftline"
+        },
+        "B28": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A29": {
+            "t": "s",
+            "v": "Local Brand Programming",
+            "r": "<t xml:space=\"preserve\">Local Brand Programming</t>",
+            "h": "Local Brand Programming",
+            "w": "Local Brand Programming"
+        },
+        "B29": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A30": {
+            "t": "s",
+            "v": "Brand Events",
+            "r": "<t xml:space=\"preserve\">Brand Events</t>",
+            "h": "Brand Events",
+            "w": "Brand Events"
+        },
+        "B30": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A31": {
+            "t": "s",
+            "v": "Pack Separations",
+            "r": "<t xml:space=\"preserve\">Pack Separations</t>",
+            "h": "Pack Separations",
+            "w": "Pack Separations"
+        },
+        "B31": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A32": {
+            "t": "s",
+            "v": "Sponsorship - Co-Op",
+            "r": "<t xml:space=\"preserve\">Sponsorship - Co-Op</t>",
+            "h": "Sponsorship - Co-Op",
+            "w": "Sponsorship - Co-Op"
+        },
+        "B32": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A33": {
+            "t": "s",
+            "v": "Sponsorship - Brand",
+            "r": "<t xml:space=\"preserve\">Sponsorship - Brand</t>",
+            "h": "Sponsorship - Brand",
+            "w": "Sponsorship - Brand"
+        },
+        "B33": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A34": {
+            "t": "s",
+            "v": "Commercial Marketing Accrual",
+            "r": "<t xml:space=\"preserve\">Commercial Marketing Accrual</t>",
+            "h": "Commercial Marketing Accrual",
+            "w": "Commercial Marketing Accrual"
+        },
+        "B34": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A35": {
+            "t": "s",
+            "v": "Agency Fees & Expenses",
+            "r": "<t xml:space=\"preserve\">Agency Fees &amp; Expenses</t>",
+            "h": "Agency Fees &amp; Expenses",
+            "w": "Agency Fees & Expenses"
+        },
+        "B35": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A36": {
+            "t": "s",
+            "v": "Incentives - Own Personnel",
+            "r": "<t xml:space=\"preserve\">Incentives - Own Personnel</t>",
+            "h": "Incentives - Own Personnel",
+            "w": "Incentives - Own Personnel"
+        },
+        "B36": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A37": {
+            "t": "s",
+            "v": "Credits",
+            "r": "<t xml:space=\"preserve\">Credits</t>",
+            "h": "Credits",
+            "w": "Credits"
+        },
+        "B37": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A38": {
+            "t": "s",
+            "v": "Media WAP",
+            "r": "<t xml:space=\"preserve\">Media WAP</t>",
+            "h": "Media WAP",
+            "w": "Media WAP"
+        },
+        "B38": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A39": {
+            "t": "s",
+            "v": "Brand Promotion",
+            "r": "<t xml:space=\"preserve\">Brand Promotion</t>",
+            "h": "Brand Promotion",
+            "w": "Brand Promotion"
+        },
+        "B39": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A40": {
+            "t": "s",
+            "v": "Route to Market",
+            "r": "<t xml:space=\"preserve\">Route to Market</t>",
+            "h": "Route to Market",
+            "w": "Route to Market"
+        },
+        "B40": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A41": {
+            "t": "s",
+            "v": "Sponsorship - National",
+            "r": "<t xml:space=\"preserve\">Sponsorship - National</t>",
+            "h": "Sponsorship - National",
+            "w": "Sponsorship - National"
+        },
+        "B41": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A42": {
+            "t": "s",
+            "v": "POCM",
+            "r": "<t xml:space=\"preserve\">POCM</t>",
+            "h": "POCM",
+            "w": "POCM"
+        },
+        "B42": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A43": {
+            "t": "s",
+            "v": "Talent Fees",
+            "r": "<t xml:space=\"preserve\">Talent Fees</t>",
+            "h": "Talent Fees",
+            "w": "Talent Fees"
+        },
+        "B43": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A44": {
+            "t": "s",
+            "v": "Region Sampling",
+            "r": "<t xml:space=\"preserve\">Region Sampling</t>",
+            "h": "Region Sampling",
+            "w": "Region Sampling"
+        },
+        "B44": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "!margins": {
+            "left": 0.7,
+            "right": 0.7,
+            "top": 0.75,
+            "bottom": 0.75,
+            "header": 0.511805555555555,
+            "footer": 0.511805555555555
+        }
+    },
+    "Brand Group": {
+        "!ref": "A1:A104",
+        "A1": {
+            "t": "s",
+            "v": "BRND_GRP_NM",
+            "r": "<t xml:space=\"preserve\">BRND_GRP_NM</t>",
+            "h": "BRND_GRP_NM",
+            "w": "BRND_GRP_NM"
+        },
+        "A2": {
+            "t": "s",
+            "v": "Karbach Family",
+            "r": "<t xml:space=\"preserve\">Karbach Family</t>",
+            "h": "Karbach Family",
+            "w": "Karbach Family"
+        },
+        "A3": {
+            "t": "s",
+            "v": "All Other Dom",
+            "r": "<t xml:space=\"preserve\">All Other Dom</t>",
+            "h": "All Other Dom",
+            "w": "All Other Dom"
+        },
+        "A4": {
+            "t": "s",
+            "v": "Hoop Tea Fam",
+            "r": "<t xml:space=\"preserve\">Hoop Tea Fam</t>",
+            "h": "Hoop Tea Fam",
+            "w": "Hoop Tea Fam"
+        },
+        "A5": {
+            "t": "s",
+            "v": "App Mtn Brwy Fam",
+            "r": "<t xml:space=\"preserve\">App Mtn Brwy Fam</t>",
+            "h": "App Mtn Brwy Fam",
+            "w": "App Mtn Brwy Fam"
+        },
+        "A6": {
+            "t": "s",
+            "v": "Kona Family",
+            "r": "<t xml:space=\"preserve\">Kona Family</t>",
+            "h": "Kona Family",
+            "w": "Kona Family"
+        },
+        "A7": {
+            "t": "s",
+            "v": "Rita Family",
+            "r": "<t xml:space=\"preserve\">Rita Family</t>",
+            "h": "Rita Family",
+            "w": "Rita Family"
+        },
+        "A8": {
+            "t": "s",
+            "v": "La Jarra Family",
+            "r": "<t xml:space=\"preserve\">La Jarra Family</t>",
+            "h": "La Jarra Family",
+            "w": "La Jarra Family"
+        },
+        "A9": {
+            "t": "s",
+            "v": "Stella Beer",
+            "r": "<t xml:space=\"preserve\">Stella Beer</t>",
+            "h": "Stella Beer",
+            "w": "Stella Beer"
+        },
+        "A10": {
+            "t": "s",
+            "v": "Natty Vodka Fam",
+            "r": "<t xml:space=\"preserve\">Natty Vodka Fam</t>",
+            "h": "Natty Vodka Fam",
+            "w": "Natty Vodka Fam"
+        },
+        "A11": {
+            "t": "s",
+            "v": "PLATFORM FAMILY",
+            "r": "<t xml:space=\"preserve\">PLATFORM FAMILY</t>",
+            "h": "PLATFORM FAMILY",
+            "w": "PLATFORM FAMILY"
+        },
+        "A12": {
+            "t": "s",
+            "v": "Other MX Imports",
+            "r": "<t xml:space=\"preserve\">Other MX Imports</t>",
+            "h": "Other MX Imports",
+            "w": "Other MX Imports"
+        },
+        "A13": {
+            "t": "s",
+            "v": "Veza Sur Family",
+            "r": "<t xml:space=\"preserve\">Veza Sur Family</t>",
+            "h": "Veza Sur Family",
+            "w": "Veza Sur Family"
+        },
+        "A14": {
+            "t": "s",
+            "v": "Patagonia Family",
+            "r": "<t xml:space=\"preserve\">Patagonia Family</t>",
+            "h": "Patagonia Family",
+            "w": "Patagonia Family"
+        },
+        "A15": {
+            "t": "s",
+            "v": "OTHER FPA",
+            "r": "<t xml:space=\"preserve\">OTHER FPA</t>",
+            "h": "OTHER FPA",
+            "w": "OTHER FPA"
+        },
+        "A16": {
+            "t": "s",
+            "v": "BDL FMB",
+            "r": "<t xml:space=\"preserve\">BDL FMB</t>",
+            "h": "BDL FMB",
+            "w": "BDL FMB"
+        },
+        "A17": {
+            "t": "s",
+            "v": "Beach Day Family",
+            "r": "<t xml:space=\"preserve\">Beach Day Family</t>",
+            "h": "Beach Day Family",
+            "w": "Beach Day Family"
+        },
+        "A18": {
+            "t": "s",
+            "v": "Hiball Family",
+            "r": "<t xml:space=\"preserve\">Hiball Family</t>",
+            "h": "Hiball Family",
+            "w": "Hiball Family"
+        },
+        "A19": {
+            "t": "s",
+            "v": "Hey Hei",
+            "r": "<t xml:space=\"preserve\">Hey Hei</t>",
+            "h": "Hey Hei",
+            "w": "Hey Hei"
+        },
+        "A20": {
+            "t": "s",
+            "v": "Virtue Family",
+            "r": "<t xml:space=\"preserve\">Virtue Family</t>",
+            "h": "Virtue Family",
+            "w": "Virtue Family"
+        },
+        "A21": {
+            "t": "s",
+            "v": "Cutwater Family",
+            "r": "<t xml:space=\"preserve\">Cutwater Family</t>",
+            "h": "Cutwater Family",
+            "w": "Cutwater Family"
+        },
+        "A22": {
+            "t": "s",
+            "v": "Breckenridge Fam",
+            "r": "<t xml:space=\"preserve\">Breckenridge Fam</t>",
+            "h": "Breckenridge Fam",
+            "w": "Breckenridge Fam"
+        },
+        "A23": {
+            "t": "s",
+            "v": "Stella Bynd Beer",
+            "r": "<t xml:space=\"preserve\">Stella Bynd Beer</t>",
+            "h": "Stella Bynd Beer",
+            "w": "Stella Bynd Beer"
+        },
+        "A24": {
+            "t": "s",
+            "v": "Chelada Family 2",
+            "r": "<t xml:space=\"preserve\">Chelada Family 2</t>",
+            "h": "Chelada Family 2",
+            "w": "Chelada Family 2"
+        },
+        "A25": {
+            "t": "s",
+            "v": "Pacer Brands",
+            "r": "<t xml:space=\"preserve\">Pacer Brands</t>",
+            "h": "Pacer Brands",
+            "w": "Pacer Brands"
+        },
+        "A26": {
+            "t": "s",
+            "v": "Four Peaks Fmly",
+            "r": "<t xml:space=\"preserve\">Four Peaks Fmly</t>",
+            "h": "Four Peaks Fmly",
+            "w": "Four Peaks Fmly"
+        },
+        "A27": {
+            "t": "s",
+            "v": "Shock Top Family",
+            "r": "<t xml:space=\"preserve\">Shock Top Family</t>",
+            "h": "Shock Top Family",
+            "w": "Shock Top Family"
+        },
+        "A28": {
+            "t": "s",
+            "v": "Mexicali Family",
+            "r": "<t xml:space=\"preserve\">Mexicali Family</t>",
+            "h": "Mexicali Family",
+            "w": "Mexicali Family"
+        },
+        "A29": {
+            "t": "s",
+            "v": "Kombrewcha Fam",
+            "r": "<t xml:space=\"preserve\">Kombrewcha Fam</t>",
+            "h": "Kombrewcha Fam",
+            "w": "Kombrewcha Fam"
+        },
+        "A30": {
+            "t": "s",
+            "v": "Bud Lght Ext FAM",
+            "r": "<t xml:space=\"preserve\">Bud Lght Ext FAM</t>",
+            "h": "Bud Lght Ext FAM",
+            "w": "Bud Lght Ext FAM"
+        },
+        "A31": {
+            "t": "s",
+            "v": "Bocanegra Family",
+            "r": "<t xml:space=\"preserve\">Bocanegra Family</t>",
+            "h": "Bocanegra Family",
+            "w": "Bocanegra Family"
+        },
+        "A32": {
+            "t": "s",
+            "v": "Franziskaner Fam",
+            "r": "<t xml:space=\"preserve\">Franziskaner Fam</t>",
+            "h": "Franziskaner Fam",
+            "w": "Franziskaner Fam"
+        },
+        "A33": {
+            "t": "s",
+            "v": "PLOT POINT",
+            "r": "<t xml:space=\"preserve\">PLOT POINT</t>",
+            "h": "PLOT POINT",
+            "w": "PLOT POINT"
+        },
+        "A34": {
+            "t": "s",
+            "v": "Unassigned",
+            "r": "<t xml:space=\"preserve\">Unassigned</t>",
+            "h": "Unassigned",
+            "w": "Unassigned"
+        },
+        "A35": {
+            "t": "s",
+            "v": "Saturday Session",
+            "r": "<t xml:space=\"preserve\">Saturday Session</t>",
+            "h": "Saturday Session",
+            "w": "Saturday Session"
+        },
+        "A36": {
+            "t": "s",
+            "v": "Busch Family",
+            "r": "<t xml:space=\"preserve\">Busch Family</t>",
+            "h": "Busch Family",
+            "w": "Busch Family"
+        },
+        "A37": {
+            "t": "s",
+            "v": "Mich Fam",
+            "r": "<t xml:space=\"preserve\">Mich Fam</t>",
+            "h": "Mich Fam",
+            "w": "Mich Fam"
+        },
+        "A38": {
+            "t": "s",
+            "v": "Natural Beer",
+            "r": "<t xml:space=\"preserve\">Natural Beer</t>",
+            "h": "Natural Beer",
+            "w": "Natural Beer"
+        },
+        "A39": {
+            "t": "s",
+            "v": "Rolling Rock Fam",
+            "r": "<t xml:space=\"preserve\">Rolling Rock Fam</t>",
+            "h": "Rolling Rock Fam",
+            "w": "Rolling Rock Fam"
+        },
+        "A40": {
+            "t": "s",
+            "v": "Boxology Fam",
+            "r": "<t xml:space=\"preserve\">Boxology Fam</t>",
+            "h": "Boxology Fam",
+            "w": "Boxology Fam"
+        },
+        "A41": {
+            "t": "s",
+            "v": "Goose Island Fam",
+            "r": "<t xml:space=\"preserve\">Goose Island Fam</t>",
+            "h": "Goose Island Fam",
+            "w": "Goose Island Fam"
+        },
+        "A42": {
+            "t": "s",
+            "v": "B Family",
+            "r": "<t xml:space=\"preserve\">B Family</t>",
+            "h": "B Family",
+            "w": "B Family"
+        },
+        "A43": {
+            "t": "s",
+            "v": "Teavana Brands",
+            "r": "<t xml:space=\"preserve\">Teavana Brands</t>",
+            "h": "Teavana Brands",
+            "w": "Teavana Brands"
+        },
+        "A44": {
+            "t": "s",
+            "v": "Icelandic Family",
+            "r": "<t xml:space=\"preserve\">Icelandic Family</t>",
+            "h": "Icelandic Family",
+            "w": "Icelandic Family"
+        },
+        "A45": {
+            "t": "s",
+            "v": "ULTRA SELTZER",
+            "r": "<t xml:space=\"preserve\">ULTRA SELTZER</t>",
+            "h": "ULTRA SELTZER",
+            "w": "ULTRA SELTZER"
+        },
+        "A46": {
+            "t": "s",
+            "v": "Cupcake Family",
+            "r": "<t xml:space=\"preserve\">Cupcake Family</t>",
+            "h": "Cupcake Family",
+            "w": "Cupcake Family"
+        },
+        "A47": {
+            "t": "s",
+            "v": "Leffe Family",
+            "r": "<t xml:space=\"preserve\">Leffe Family</t>",
+            "h": "Leffe Family",
+            "w": "Leffe Family"
+        },
+        "A48": {
+            "t": "s",
+            "v": "Cisco Brands",
+            "r": "<t xml:space=\"preserve\">Cisco Brands</t>",
+            "h": "Cisco Brands",
+            "w": "Cisco Brands"
+        },
+        "A49": {
+            "t": "s",
+            "v": "Ten Barrel Brnds",
+            "r": "<t xml:space=\"preserve\">Ten Barrel Brnds</t>",
+            "h": "Ten Barrel Brnds",
+            "w": "Ten Barrel Brnds"
+        },
+        "A50": {
+            "t": "s",
+            "v": "Estrella Domesti",
+            "r": "<t xml:space=\"preserve\">Estrella Domesti</t>",
+            "h": "Estrella Domesti",
+            "w": "Estrella Domesti"
+        },
+        "A51": {
+            "t": "s",
+            "v": "Fireball",
+            "r": "<t xml:space=\"preserve\">Fireball</t>",
+            "h": "Fireball",
+            "w": "Fireball"
+        },
+        "A52": {
+            "t": "s",
+            "v": "Mixx  Brands",
+            "r": "<t xml:space=\"preserve\">Mixx  Brands</t>",
+            "h": "Mixx  Brands",
+            "w": "Mixx  Brands"
+        },
+        "A53": {
+            "t": "s",
+            "v": "Elysian Family",
+            "r": "<t xml:space=\"preserve\">Elysian Family</t>",
+            "h": "Elysian Family",
+            "w": "Elysian Family"
+        },
+        "A54": {
+            "t": "s",
+            "v": "Ghost Energy",
+            "r": "<t xml:space=\"preserve\">Ghost Energy</t>",
+            "h": "Ghost Energy",
+            "w": "Ghost Energy"
+        },
+        "A55": {
+            "t": "s",
+            "v": "Margaritaville",
+            "r": "<t xml:space=\"preserve\">Margaritaville</t>",
+            "h": "Margaritaville",
+            "w": "Margaritaville"
+        },
+        "A56": {
+            "t": "s",
+            "v": "Noonshine",
+            "r": "<t xml:space=\"preserve\">Noonshine</t>",
+            "h": "Noonshine",
+            "w": "Noonshine"
+        },
+        "A57": {
+            "t": "s",
+            "v": "101 NORTH",
+            "r": "<t xml:space=\"preserve\">101 NORTH</t>",
+            "h": "101 NORTH",
+            "w": "101 NORTH"
+        },
+        "A58": {
+            "t": "s",
+            "v": "Devils Backbone",
+            "r": "<t xml:space=\"preserve\">Devils Backbone</t>",
+            "h": "Devils Backbone",
+            "w": "Devils Backbone"
+        },
+        "A59": {
+            "t": "s",
+            "v": "Hurricane Family",
+            "r": "<t xml:space=\"preserve\">Hurricane Family</t>",
+            "h": "Hurricane Family",
+            "w": "Hurricane Family"
+        },
+        "A60": {
+            "t": "s",
+            "v": "Wynwood Family",
+            "r": "<t xml:space=\"preserve\">Wynwood Family</t>",
+            "h": "Wynwood Family",
+            "w": "Wynwood Family"
+        },
+        "A61": {
+            "t": "s",
+            "v": "MD 2020 Wine",
+            "r": "<t xml:space=\"preserve\">MD 2020 Wine</t>",
+            "h": "MD 2020 Wine",
+            "w": "MD 2020 Wine"
+        },
+        "A62": {
+            "t": "s",
+            "v": "Best Damn Family",
+            "r": "<t xml:space=\"preserve\">Best Damn Family</t>",
+            "h": "Best Damn Family",
+            "w": "Best Damn Family"
+        },
+        "A63": {
+            "t": "s",
+            "v": "Square Mile Fam",
+            "r": "<t xml:space=\"preserve\">Square Mile Fam</t>",
+            "h": "Square Mile Fam",
+            "w": "Square Mile Fam"
+        },
+        "A64": {
+            "t": "s",
+            "v": "BDL Plat Seltzer",
+            "r": "<t xml:space=\"preserve\">BDL Plat Seltzer</t>",
+            "h": "BDL Plat Seltzer",
+            "w": "BDL Plat Seltzer"
+        },
+        "A65": {
+            "t": "s",
+            "v": "Year Of Fam",
+            "r": "<t xml:space=\"preserve\">Year Of Fam</t>",
+            "h": "Year Of Fam",
+            "w": "Year Of Fam"
+        },
+        "A66": {
+            "t": "s",
+            "v": "Kirin Brands",
+            "r": "<t xml:space=\"preserve\">Kirin Brands</t>",
+            "h": "Kirin Brands",
+            "w": "Kirin Brands"
+        },
+        "A67": {
+            "t": "s",
+            "v": "ODouls Family",
+            "r": "<t xml:space=\"preserve\">ODouls Family</t>",
+            "h": "ODouls Family",
+            "w": "ODouls Family"
+        },
+        "A68": {
+            "t": "s",
+            "v": "Chelada Family",
+            "r": "<t xml:space=\"preserve\">Chelada Family</t>",
+            "h": "Chelada Family",
+            "w": "Chelada Family"
+        },
+        "A69": {
+            "t": "s",
+            "v": "Neon Family",
+            "r": "<t xml:space=\"preserve\">Neon Family</t>",
+            "h": "Neon Family",
+            "w": "Neon Family"
+        },
+        "A70": {
+            "t": "s",
+            "v": "St. Pauli Fam",
+            "r": "<t xml:space=\"preserve\">St. Pauli Fam</t>",
+            "h": "St. Pauli Fam",
+            "w": "St. Pauli Fam"
+        },
+        "A71": {
+            "t": "s",
+            "v": "CANTEEN",
+            "r": "<t xml:space=\"preserve\">CANTEEN</t>",
+            "h": "CANTEEN",
+            "w": "CANTEEN"
+        },
+        "A72": {
+            "t": "s",
+            "v": "CACTI",
+            "r": "<t xml:space=\"preserve\">CACTI</t>",
+            "h": "CACTI",
+            "w": "CACTI"
+        },
+        "A73": {
+            "t": "s",
+            "v": "BDL Seltzer",
+            "r": "<t xml:space=\"preserve\">BDL Seltzer</t>",
+            "h": "BDL Seltzer",
+            "w": "BDL Seltzer"
+        },
+        "A74": {
+            "t": "s",
+            "v": "NUTRL FAMILY",
+            "r": "<t xml:space=\"preserve\">NUTRL FAMILY</t>",
+            "h": "NUTRL FAMILY",
+            "w": "NUTRL FAMILY"
+        },
+        "A75": {
+            "t": "s",
+            "v": "Natty Seltzer",
+            "r": "<t xml:space=\"preserve\">Natty Seltzer</t>",
+            "h": "Natty Seltzer",
+            "w": "Natty Seltzer"
+        },
+        "A76": {
+            "t": "s",
+            "v": "BOJANGLES",
+            "r": "<t xml:space=\"preserve\">BOJANGLES</t>",
+            "h": "BOJANGLES",
+            "w": "BOJANGLES"
+        },
+        "A77": {
+            "t": "s",
+            "v": "Hard and Simple",
+            "r": "<t xml:space=\"preserve\">Hard and Simple</t>",
+            "h": "Hard and Simple",
+            "w": "Hard and Simple"
+        },
+        "A78": {
+            "t": "s",
+            "v": "Drinkworks Fam",
+            "r": "<t xml:space=\"preserve\">Drinkworks Fam</t>",
+            "h": "Drinkworks Fam",
+            "w": "Drinkworks Fam"
+        },
+        "A79": {
+            "t": "s",
+            "v": "CBA PH EXP",
+            "r": "<t xml:space=\"preserve\">CBA PH EXP</t>",
+            "h": "CBA PH EXP",
+            "w": "CBA PH EXP"
+        },
+        "A80": {
+            "t": "s",
+            "v": "Bon V!v Seltzer",
+            "r": "<t xml:space=\"preserve\">Bon V!v Seltzer</t>",
+            "h": "Bon V!v Seltzer",
+            "w": "Bon V!v Seltzer"
+        },
+        "A81": {
+            "t": "s",
+            "v": "Golden Road Fam",
+            "r": "<t xml:space=\"preserve\">Golden Road Fam</t>",
+            "h": "Golden Road Fam",
+            "w": "Golden Road Fam"
+        },
+        "A82": {
+            "t": "s",
+            "v": "Mic Ultra Family",
+            "r": "<t xml:space=\"preserve\">Mic Ultra Family</t>",
+            "h": "Mic Ultra Family",
+            "w": "Mic Ultra Family"
+        },
+        "A83": {
+            "t": "s",
+            "v": "Spaten Family",
+            "r": "<t xml:space=\"preserve\">Spaten Family</t>",
+            "h": "Spaten Family",
+            "w": "Spaten Family"
+        },
+        "A84": {
+            "t": "s",
+            "v": "Redhook Family",
+            "r": "<t xml:space=\"preserve\">Redhook Family</t>",
+            "h": "Redhook Family",
+            "w": "Redhook Family"
+        },
+        "A85": {
+            "t": "s",
+            "v": "Social Club",
+            "r": "<t xml:space=\"preserve\">Social Club</t>",
+            "h": "Social Club",
+            "w": "Social Club"
+        },
+        "A86": {
+            "t": "s",
+            "v": "Wicked Weed Fam",
+            "r": "<t xml:space=\"preserve\">Wicked Weed Fam</t>",
+            "h": "Wicked Weed Fam",
+            "w": "Wicked Weed Fam"
+        },
+        "A87": {
+            "t": "s",
+            "v": "Becks Family",
+            "r": "<t xml:space=\"preserve\">Becks Family</t>",
+            "h": "Becks Family",
+            "w": "Becks Family"
+        },
+        "A88": {
+            "t": "s",
+            "v": "Widmer Family",
+            "r": "<t xml:space=\"preserve\">Widmer Family</t>",
+            "h": "Widmer Family",
+            "w": "Widmer Family"
+        },
+        "A89": {
+            "t": "s",
+            "v": "BABE",
+            "r": "<t xml:space=\"preserve\">BABE</t>",
+            "h": "BABE",
+            "w": "BABE"
+        },
+        "A90": {
+            "t": "s",
+            "v": "Los Sundays Fam",
+            "r": "<t xml:space=\"preserve\">Los Sundays Fam</t>",
+            "h": "Los Sundays Fam",
+            "w": "Los Sundays Fam"
+        },
+        "A91": {
+            "t": "s",
+            "v": "Southern Comfort",
+            "r": "<t xml:space=\"preserve\">Southern Comfort</t>",
+            "h": "Southern Comfort",
+            "w": "Southern Comfort"
+        },
+        "A92": {
+            "t": "s",
+            "v": "Presidente Fam",
+            "r": "<t xml:space=\"preserve\">Presidente Fam</t>",
+            "h": "Presidente Fam",
+            "w": "Presidente Fam"
+        },
+        "A93": {
+            "t": "s",
+            "v": "All Other Import",
+            "r": "<t xml:space=\"preserve\">All Other Import</t>",
+            "h": "All Other Import",
+            "w": "All Other Import"
+        },
+        "A94": {
+            "t": "s",
+            "v": "Bud/Bud Lght Fam",
+            "r": "<t xml:space=\"preserve\">Bud/Bud Lght Fam</t>",
+            "h": "Bud/Bud Lght Fam",
+            "w": "Bud/Bud Lght Fam"
+        },
+        "A95": {
+            "t": "s",
+            "v": "Natty FMB",
+            "r": "<t xml:space=\"preserve\">Natty FMB</t>",
+            "h": "Natty FMB",
+            "w": "Natty FMB"
+        },
+        "A96": {
+            "t": "s",
+            "v": "Other EU Imports",
+            "r": "<t xml:space=\"preserve\">Other EU Imports</t>",
+            "h": "Other EU Imports",
+            "w": "Other EU Imports"
+        },
+        "A97": {
+            "t": "s",
+            "v": "Blue Point Fmly",
+            "r": "<t xml:space=\"preserve\">Blue Point Fmly</t>",
+            "h": "Blue Point Fmly",
+            "w": "Blue Point Fmly"
+        },
+        "A98": {
+            "t": "s",
+            "v": "Omission Family",
+            "r": "<t xml:space=\"preserve\">Omission Family</t>",
+            "h": "Omission Family",
+            "w": "Omission Family"
+        },
+        "A99": {
+            "t": "s",
+            "v": "Bass Family",
+            "r": "<t xml:space=\"preserve\">Bass Family</t>",
+            "h": "Bass Family",
+            "w": "Bass Family"
+        },
+        "A100": {
+            "t": "s",
+            "v": "Bud Extensions",
+            "r": "<t xml:space=\"preserve\">Bud Extensions</t>",
+            "h": "Bud Extensions",
+            "w": "Bud Extensions"
+        },
+        "A101": {
+            "t": "s",
+            "v": "Golden Family",
+            "r": "<t xml:space=\"preserve\">Golden Family</t>",
+            "h": "Golden Family",
+            "w": "Golden Family"
+        },
+        "A102": {
+            "t": "s",
+            "v": "Super Coffee",
+            "r": "<t xml:space=\"preserve\">Super Coffee</t>",
+            "h": "Super Coffee",
+            "w": "Super Coffee"
+        },
+        "A103": {
+            "t": "s",
+            "v": "Alex Keith",
+            "r": "<t xml:space=\"preserve\">Alex Keith</t>",
+            "h": "Alex Keith",
+            "w": "Alex Keith"
+        },
+        "A104": {
+            "t": "s",
+            "v": "CANTARITOS",
+            "r": "<t xml:space=\"preserve\">CANTARITOS</t>",
+            "h": "CANTARITOS",
+            "w": "CANTARITOS"
+        },
+        "!margins": {
+            "left": 0.7,
+            "right": 0.7,
+            "top": 0.75,
+            "bottom": 0.75,
+            "header": 0.511805555555555,
+            "footer": 0.511805555555555
+        }
+    },
+    "Teams": {
+        "!ref": "A1:B97",
+        "A1": {
+            "t": "s",
+            "v": "TEAM_NAME",
+            "r": "<t xml:space=\"preserve\">TEAM_NAME</t>",
+            "h": "TEAM_NAME",
+            "w": "TEAM_NAME"
+        },
+        "B1": {
+            "t": "s",
+            "v": "Package",
+            "r": "<t xml:space=\"preserve\">Package</t>",
+            "h": "Package",
+            "w": "Package"
+        },
+        "A2": {
+            "t": "s",
+            "v": "AB ONE",
+            "r": "<t xml:space=\"preserve\">AB ONE</t>",
+            "h": "AB ONE",
+            "w": "AB ONE"
+        },
+        "B2": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A3": {
+            "t": "s",
+            "v": "Apollo 11",
+            "r": "<t xml:space=\"preserve\">Apollo 11</t>",
+            "h": "Apollo 11",
+            "w": "Apollo 11"
+        },
+        "B3": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A4": {
+            "t": "s",
+            "v": "ARCHs",
+            "r": "<t xml:space=\"preserve\">ARCHs</t>",
+            "h": "ARCHs",
+            "w": "ARCHs"
+        },
+        "B4": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A5": {
+            "t": "s",
+            "v": "Beyond Beer - Partnerships",
+            "r": "<t xml:space=\"preserve\">Beyond Beer - Partnerships</t>",
+            "h": "Beyond Beer - Partnerships",
+            "w": "Beyond Beer - Partnerships"
+        },
+        "B5": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A6": {
+            "t": "s",
+            "v": "Beyond Beer Entity - UNASSIGNED",
+            "r": "<t xml:space=\"preserve\">Beyond Beer Entity - UNASSIGNED</t>",
+            "h": "Beyond Beer Entity - UNASSIGNED",
+            "w": "Beyond Beer Entity - UNASSIGNED"
+        },
+        "B6": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A7": {
+            "t": "s",
+            "v": "Brand Insights",
+            "r": "<t xml:space=\"preserve\">Brand Insights</t>",
+            "h": "Brand Insights",
+            "w": "Brand Insights"
+        },
+        "B7": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A8": {
+            "t": "s",
+            "v": "Brewers Collective Entity - UNASSIGNED",
+            "r": "<t xml:space=\"preserve\">Brewers Collective Entity - UNASSIGNED</t>",
+            "h": "Brewers Collective Entity - UNASSIGNED",
+            "w": "Brewers Collective Entity - UNASSIGNED"
+        },
+        "B8": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A9": {
+            "t": "s",
+            "v": "Bud Light Blue",
+            "r": "<t xml:space=\"preserve\">Bud Light Blue</t>",
+            "h": "Bud Light Blue",
+            "w": "Bud Light Blue"
+        },
+        "B9": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A10": {
+            "t": "s",
+            "v": "Bud Light Extensions",
+            "r": "<t xml:space=\"preserve\">Bud Light Extensions</t>",
+            "h": "Bud Light Extensions",
+            "w": "Bud Light Extensions"
+        },
+        "B10": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A11": {
+            "t": "s",
+            "v": "Budweiser",
+            "r": "<t xml:space=\"preserve\">Budweiser</t>",
+            "h": "Budweiser",
+            "w": "Budweiser"
+        },
+        "B11": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A12": {
+            "t": "s",
+            "v": "Channel Teams",
+            "r": "<t xml:space=\"preserve\">Channel Teams</t>",
+            "h": "Channel Teams",
+            "w": "Channel Teams"
+        },
+        "B12": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A13": {
+            "t": "s",
+            "v": "Commercial Data and Digital Transformation",
+            "r": "<t xml:space=\"preserve\">Commercial Data and Digital Transformation</t>",
+            "h": "Commercial Data and Digital Transformation",
+            "w": "Commercial Data and Digital Transformation"
+        },
+        "B13": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A14": {
+            "t": "s",
+            "v": "Commercial Entity - UNASSIGNED",
+            "r": "<t xml:space=\"preserve\">Commercial Entity - UNASSIGNED</t>",
+            "h": "Commercial Entity - UNASSIGNED",
+            "w": "Commercial Entity - UNASSIGNED"
+        },
+        "B14": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A15": {
+            "t": "s",
+            "v": "Commercial Finance",
+            "r": "<t xml:space=\"preserve\">Commercial Finance</t>",
+            "h": "Commercial Finance",
+            "w": "Commercial Finance"
+        },
+        "B15": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A16": {
+            "t": "s",
+            "v": "Commercial Insights and Category",
+            "r": "<t xml:space=\"preserve\">Commercial Insights and Category</t>",
+            "h": "Commercial Insights and Category",
+            "w": "Commercial Insights and Category"
+        },
+        "B16": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A17": {
+            "t": "s",
+            "v": "Commercial Intelligence",
+            "r": "<t xml:space=\"preserve\">Commercial Intelligence</t>",
+            "h": "Commercial Intelligence",
+            "w": "Commercial Intelligence"
+        },
+        "B17": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A18": {
+            "t": "s",
+            "v": "Commercial Strategy and Planning",
+            "r": "<t xml:space=\"preserve\">Commercial Strategy and Planning</t>",
+            "h": "Commercial Strategy and Planning",
+            "w": "Commercial Strategy and Planning"
+        },
+        "B18": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A19": {
+            "t": "s",
+            "v": "Commercial VP",
+            "r": "<t xml:space=\"preserve\">Commercial VP</t>",
+            "h": "Commercial VP",
+            "w": "Commercial VP"
+        },
+        "B19": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A20": {
+            "t": "s",
+            "v": "Connections",
+            "r": "<t xml:space=\"preserve\">Connections</t>",
+            "h": "Connections",
+            "w": "Connections"
+        },
+        "B20": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A21": {
+            "t": "s",
+            "v": "Cutwater",
+            "r": "<t xml:space=\"preserve\">Cutwater</t>",
+            "h": "Cutwater",
+            "w": "Cutwater"
+        },
+        "B21": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A22": {
+            "t": "s",
+            "v": "Defunct",
+            "r": "<t xml:space=\"preserve\">Defunct</t>",
+            "h": "Defunct",
+            "w": "Defunct"
+        },
+        "B22": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A23": {
+            "t": "s",
+            "v": "Draftline - BEX",
+            "r": "<t xml:space=\"preserve\">Draftline - BEX</t>",
+            "h": "Draftline - BEX",
+            "w": "Draftline - BEX"
+        },
+        "B23": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A24": {
+            "t": "s",
+            "v": "Draftline - Business",
+            "r": "<t xml:space=\"preserve\">Draftline - Business</t>",
+            "h": "Draftline - Business",
+            "w": "Draftline - Business"
+        },
+        "B24": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A25": {
+            "t": "s",
+            "v": "Draftline - Connected Commerce",
+            "r": "<t xml:space=\"preserve\">Draftline - Connected Commerce</t>",
+            "h": "Draftline - Connected Commerce",
+            "w": "Draftline - Connected Commerce"
+        },
+        "B25": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A26": {
+            "t": "s",
+            "v": "Draftline - Ecommerce",
+            "r": "<t xml:space=\"preserve\">Draftline - Ecommerce</t>",
+            "h": "Draftline - Ecommerce",
+            "w": "Draftline - Ecommerce"
+        },
+        "B26": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A27": {
+            "t": "s",
+            "v": "Draftline - Merch",
+            "r": "<t xml:space=\"preserve\">Draftline - Merch</t>",
+            "h": "Draftline - Merch",
+            "w": "Draftline - Merch"
+        },
+        "B27": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A28": {
+            "t": "s",
+            "v": "Draftline - Social Lab",
+            "r": "<t xml:space=\"preserve\">Draftline - Social Lab</t>",
+            "h": "Draftline - Social Lab",
+            "w": "Draftline - Social Lab"
+        },
+        "B28": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A29": {
+            "t": "s",
+            "v": "Draftline - Web3",
+            "r": "<t xml:space=\"preserve\">Draftline - Web3</t>",
+            "h": "Draftline - Web3",
+            "w": "Draftline - Web3"
+        },
+        "B29": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A30": {
+            "t": "s",
+            "v": "ECommerce",
+            "r": "<t xml:space=\"preserve\">ECommerce</t>",
+            "h": "ECommerce",
+            "w": "ECommerce"
+        },
+        "B30": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A31": {
+            "t": "s",
+            "v": "Innovation",
+            "r": "<t xml:space=\"preserve\">Innovation</t>",
+            "h": "Innovation",
+            "w": "Innovation"
+        },
+        "B31": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A32": {
+            "t": "s",
+            "v": "Kirin",
+            "r": "<t xml:space=\"preserve\">Kirin</t>",
+            "h": "Kirin",
+            "w": "Kirin"
+        },
+        "B32": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A33": {
+            "t": "s",
+            "v": "Launchpad",
+            "r": "<t xml:space=\"preserve\">Launchpad</t>",
+            "h": "Launchpad",
+            "w": "Launchpad"
+        },
+        "B33": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A34": {
+            "t": "s",
+            "v": "LCA Entity",
+            "r": "<t xml:space=\"preserve\">LCA Entity</t>",
+            "h": "LCA Entity",
+            "w": "LCA Entity"
+        },
+        "B34": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A35": {
+            "t": "s",
+            "v": "Marketing Admin",
+            "r": "<t xml:space=\"preserve\">Marketing Admin</t>",
+            "h": "Marketing Admin",
+            "w": "Marketing Admin"
+        },
+        "B35": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A36": {
+            "t": "s",
+            "v": "Marketing Culture",
+            "r": "<t xml:space=\"preserve\">Marketing Culture</t>",
+            "h": "Marketing Culture",
+            "w": "Marketing Culture"
+        },
+        "B36": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A37": {
+            "t": "s",
+            "v": "Marketing Entity - UNASSIGNED",
+            "r": "<t xml:space=\"preserve\">Marketing Entity - UNASSIGNED</t>",
+            "h": "Marketing Entity - UNASSIGNED",
+            "w": "Marketing Entity - UNASSIGNED"
+        },
+        "B37": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A38": {
+            "t": "s",
+            "v": "Marketing PMO",
+            "r": "<t xml:space=\"preserve\">Marketing PMO</t>",
+            "h": "Marketing PMO",
+            "w": "Marketing PMO"
+        },
+        "B38": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A39": {
+            "t": "s",
+            "v": "Media",
+            "r": "<t xml:space=\"preserve\">Media</t>",
+            "h": "Media",
+            "w": "Media"
+        },
+        "B39": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A40": {
+            "t": "s",
+            "v": "Michelob Golden",
+            "r": "<t xml:space=\"preserve\">Michelob Golden</t>",
+            "h": "Michelob Golden",
+            "w": "Michelob Golden"
+        },
+        "B40": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A41": {
+            "t": "s",
+            "v": "Michelob ULTRA",
+            "r": "<t xml:space=\"preserve\">Michelob ULTRA</t>",
+            "h": "Michelob ULTRA",
+            "w": "Michelob ULTRA"
+        },
+        "B41": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A42": {
+            "t": "s",
+            "v": "Montejo",
+            "r": "<t xml:space=\"preserve\">Montejo</t>",
+            "h": "Montejo",
+            "w": "Montejo"
+        },
+        "B42": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A43": {
+            "t": "s",
+            "v": "NUTRL",
+            "r": "<t xml:space=\"preserve\">NUTRL</t>",
+            "h": "NUTRL",
+            "w": "NUTRL"
+        },
+        "B43": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A44": {
+            "t": "s",
+            "v": "Other Entities - UNASSIGNED",
+            "r": "<t xml:space=\"preserve\">Other Entities - UNASSIGNED</t>",
+            "h": "Other Entities - UNASSIGNED",
+            "w": "Other Entities - UNASSIGNED"
+        },
+        "B44": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A45": {
+            "t": "s",
+            "v": "Out of Performance",
+            "r": "<t xml:space=\"preserve\">Out of Performance</t>",
+            "h": "Out of Performance",
+            "w": "Out of Performance"
+        },
+        "B45": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A46": {
+            "t": "s",
+            "v": "Pack Separations",
+            "r": "<t xml:space=\"preserve\">Pack Separations</t>",
+            "h": "Pack Separations",
+            "w": "Pack Separations"
+        },
+        "B46": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A47": {
+            "t": "s",
+            "v": "Premium",
+            "r": "<t xml:space=\"preserve\">Premium</t>",
+            "h": "Premium",
+            "w": "Premium"
+        },
+        "B47": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A48": {
+            "t": "s",
+            "v": "Region 1",
+            "r": "<t xml:space=\"preserve\">Region 1</t>",
+            "h": "Region 1",
+            "w": "Region 1"
+        },
+        "B48": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A49": {
+            "t": "s",
+            "v": "Region 2",
+            "r": "<t xml:space=\"preserve\">Region 2</t>",
+            "h": "Region 2",
+            "w": "Region 2"
+        },
+        "B49": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A50": {
+            "t": "s",
+            "v": "Region 3",
+            "r": "<t xml:space=\"preserve\">Region 3</t>",
+            "h": "Region 3",
+            "w": "Region 3"
+        },
+        "B50": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A51": {
+            "t": "s",
+            "v": "Region 4",
+            "r": "<t xml:space=\"preserve\">Region 4</t>",
+            "h": "Region 4",
+            "w": "Region 4"
+        },
+        "B51": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A52": {
+            "t": "s",
+            "v": "Region 5",
+            "r": "<t xml:space=\"preserve\">Region 5</t>",
+            "h": "Region 5",
+            "w": "Region 5"
+        },
+        "B52": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A53": {
+            "t": "s",
+            "v": "Region 6",
+            "r": "<t xml:space=\"preserve\">Region 6</t>",
+            "h": "Region 6",
+            "w": "Region 6"
+        },
+        "B53": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A54": {
+            "t": "s",
+            "v": "Route to Market",
+            "r": "<t xml:space=\"preserve\">Route to Market</t>",
+            "h": "Route to Market",
+            "w": "Route to Market"
+        },
+        "B54": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A55": {
+            "t": "s",
+            "v": "Sales Entity - UNASSIGNED",
+            "r": "<t xml:space=\"preserve\">Sales Entity - UNASSIGNED</t>",
+            "h": "Sales Entity - UNASSIGNED",
+            "w": "Sales Entity - UNASSIGNED"
+        },
+        "B55": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A56": {
+            "t": "s",
+            "v": "Shared Cost Accounts",
+            "r": "<t xml:space=\"preserve\">Shared Cost Accounts</t>",
+            "h": "Shared Cost Accounts",
+            "w": "Shared Cost Accounts"
+        },
+        "B56": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A57": {
+            "t": "s",
+            "v": "Sponsorship",
+            "r": "<t xml:space=\"preserve\">Sponsorship</t>",
+            "h": "Sponsorship",
+            "w": "Sponsorship"
+        },
+        "B57": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A58": {
+            "t": "s",
+            "v": "Supply",
+            "r": "<t xml:space=\"preserve\">Supply</t>",
+            "h": "Supply",
+            "w": "Supply"
+        },
+        "B58": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A59": {
+            "t": "s",
+            "v": "Trade Marketing",
+            "r": "<t xml:space=\"preserve\">Trade Marketing</t>",
+            "h": "Trade Marketing",
+            "w": "Trade Marketing"
+        },
+        "B59": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A60": {
+            "t": "s",
+            "v": "Trade Marketing - High End",
+            "r": "<t xml:space=\"preserve\">Trade Marketing - High End</t>",
+            "h": "Trade Marketing - High End",
+            "w": "Trade Marketing - High End"
+        },
+        "B60": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A61": {
+            "t": "s",
+            "v": "Value",
+            "r": "<t xml:space=\"preserve\">Value</t>",
+            "h": "Value",
+            "w": "Value"
+        },
+        "B61": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A62": {
+            "t": "s",
+            "v": "VP Beyond Beer",
+            "r": "<t xml:space=\"preserve\">VP Beyond Beer</t>",
+            "h": "VP Beyond Beer",
+            "w": "VP Beyond Beer"
+        },
+        "B62": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A63": {
+            "t": "s",
+            "v": "Zone Staff Entity",
+            "r": "<t xml:space=\"preserve\">Zone Staff Entity</t>",
+            "h": "Zone Staff Entity",
+            "w": "Zone Staff Entity"
+        },
+        "B63": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A64": {
+            "t": "s",
+            "v": "Finance Entity",
+            "r": "<t xml:space=\"preserve\">Finance Entity</t>",
+            "h": "Finance Entity",
+            "w": "Finance Entity"
+        },
+        "B64": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "A65": {
+            "t": "s",
+            "v": "1_Northeast Region",
+            "r": "<t xml:space=\"preserve\">1_Northeast Region</t>",
+            "h": "1_Northeast Region",
+            "w": "1_Northeast Region"
+        },
+        "B65": {
+            "t": "s",
+            "v": "Sales",
+            "r": "<t xml:space=\"preserve\">Sales</t>",
+            "h": "Sales",
+            "w": "Sales"
+        },
+        "A66": {
+            "t": "s",
+            "v": "2_Southeast Region",
+            "r": "<t xml:space=\"preserve\">2_Southeast Region</t>",
+            "h": "2_Southeast Region",
+            "w": "2_Southeast Region"
+        },
+        "B66": {
+            "t": "s",
+            "v": "Sales",
+            "r": "<t xml:space=\"preserve\">Sales</t>",
+            "h": "Sales",
+            "w": "Sales"
+        },
+        "A67": {
+            "t": "s",
+            "v": "3_Great Lakes Region",
+            "r": "<t xml:space=\"preserve\">3_Great Lakes Region</t>",
+            "h": "3_Great Lakes Region",
+            "w": "3_Great Lakes Region"
+        },
+        "B67": {
+            "t": "s",
+            "v": "Sales",
+            "r": "<t xml:space=\"preserve\">Sales</t>",
+            "h": "Sales",
+            "w": "Sales"
+        },
+        "A68": {
+            "t": "s",
+            "v": "4_Midwest Region",
+            "r": "<t xml:space=\"preserve\">4_Midwest Region</t>",
+            "h": "4_Midwest Region",
+            "w": "4_Midwest Region"
+        },
+        "B68": {
+            "t": "s",
+            "v": "Sales",
+            "r": "<t xml:space=\"preserve\">Sales</t>",
+            "h": "Sales",
+            "w": "Sales"
+        },
+        "A69": {
+            "t": "s",
+            "v": "5_South Central Region",
+            "r": "<t xml:space=\"preserve\">5_South Central Region</t>",
+            "h": "5_South Central Region",
+            "w": "5_South Central Region"
+        },
+        "B69": {
+            "t": "s",
+            "v": "Sales",
+            "r": "<t xml:space=\"preserve\">Sales</t>",
+            "h": "Sales",
+            "w": "Sales"
+        },
+        "A70": {
+            "t": "s",
+            "v": "6_West Region",
+            "r": "<t xml:space=\"preserve\">6_West Region</t>",
+            "h": "6_West Region",
+            "w": "6_West Region"
+        },
+        "B70": {
+            "t": "s",
+            "v": "Sales",
+            "r": "<t xml:space=\"preserve\">Sales</t>",
+            "h": "Sales",
+            "w": "Sales"
+        },
+        "A71": {
+            "t": "s",
+            "v": "AB One",
+            "r": "<t xml:space=\"preserve\">AB One</t>",
+            "h": "AB One",
+            "w": "AB One"
+        },
+        "B71": {
+            "t": "s",
+            "v": "Sales",
+            "r": "<t xml:space=\"preserve\">Sales</t>",
+            "h": "Sales",
+            "w": "Sales"
+        },
+        "A72": {
+            "t": "s",
+            "v": "BCBU",
+            "r": "<t xml:space=\"preserve\">BCBU</t>",
+            "h": "BCBU",
+            "w": "BCBU"
+        },
+        "B72": {
+            "t": "s",
+            "v": "Sales",
+            "r": "<t xml:space=\"preserve\">Sales</t>",
+            "h": "Sales",
+            "w": "Sales"
+        },
+        "A73": {
+            "t": "s",
+            "v": "Beyond Beer",
+            "r": "<t xml:space=\"preserve\">Beyond Beer</t>",
+            "h": "Beyond Beer",
+            "w": "Beyond Beer"
+        },
+        "B73": {
+            "t": "s",
+            "v": "Sales",
+            "r": "<t xml:space=\"preserve\">Sales</t>",
+            "h": "Sales",
+            "w": "Sales"
+        },
+        "A74": {
+            "t": "s",
+            "v": "Beyond Beer_Adjacencies",
+            "r": "<t xml:space=\"preserve\">Beyond Beer_Adjacencies</t>",
+            "h": "Beyond Beer_Adjacencies",
+            "w": "Beyond Beer_Adjacencies"
+        },
+        "B74": {
+            "t": "s",
+            "v": "Sales",
+            "r": "<t xml:space=\"preserve\">Sales</t>",
+            "h": "Sales",
+            "w": "Sales"
+        },
+        "A75": {
+            "t": "s",
+            "v": "BWD",
+            "r": "<t xml:space=\"preserve\">BWD</t>",
+            "h": "BWD",
+            "w": "BWD"
+        },
+        "B75": {
+            "t": "s",
+            "v": "Sales",
+            "r": "<t xml:space=\"preserve\">Sales</t>",
+            "h": "Sales",
+            "w": "Sales"
+        },
+        "A76": {
+            "t": "s",
+            "v": "Category Management",
+            "r": "<t xml:space=\"preserve\">Category Management</t>",
+            "h": "Category Management",
+            "w": "Category Management"
+        },
+        "B76": {
+            "t": "s",
+            "v": "Sales",
+            "r": "<t xml:space=\"preserve\">Sales</t>",
+            "h": "Sales",
+            "w": "Sales"
+        },
+        "A77": {
+            "t": "s",
+            "v": "C-Store & Military",
+            "r": "<t xml:space=\"preserve\">C-Store &amp; Military</t>",
+            "h": "C-Store &amp; Military",
+            "w": "C-Store & Military"
+        },
+        "B77": {
+            "t": "s",
+            "v": "Sales",
+            "r": "<t xml:space=\"preserve\">Sales</t>",
+            "h": "Sales",
+            "w": "Sales"
+        },
+        "A78": {
+            "t": "s",
+            "v": "Commercial Finance",
+            "r": "<t xml:space=\"preserve\">Commercial Finance</t>",
+            "h": "Commercial Finance",
+            "w": "Commercial Finance"
+        },
+        "B78": {
+            "t": "s",
+            "v": "Sales",
+            "r": "<t xml:space=\"preserve\">Sales</t>",
+            "h": "Sales",
+            "w": "Sales"
+        },
+        "A79": {
+            "t": "s",
+            "v": "Commercial Strategy & Planning",
+            "r": "<t xml:space=\"preserve\">Commercial Strategy &amp; Planning</t>",
+            "h": "Commercial Strategy &amp; Planning",
+            "w": "Commercial Strategy & Planning"
+        },
+        "B79": {
+            "t": "s",
+            "v": "Sales",
+            "r": "<t xml:space=\"preserve\">Sales</t>",
+            "h": "Sales",
+            "w": "Sales"
+        },
+        "A80": {
+            "t": "s",
+            "v": "Commercial Intelligence",
+            "r": "<t xml:space=\"preserve\">Commercial Intelligence</t>",
+            "h": "Commercial Intelligence",
+            "w": "Commercial Intelligence"
+        },
+        "B80": {
+            "t": "s",
+            "v": "Sales",
+            "r": "<t xml:space=\"preserve\">Sales</t>",
+            "h": "Sales",
+            "w": "Sales"
+        },
+        "A81": {
+            "t": "s",
+            "v": "Corporate Affairs",
+            "r": "<t xml:space=\"preserve\">Corporate Affairs</t>",
+            "h": "Corporate Affairs",
+            "w": "Corporate Affairs"
+        },
+        "B81": {
+            "t": "s",
+            "v": "Sales",
+            "r": "<t xml:space=\"preserve\">Sales</t>",
+            "h": "Sales",
+            "w": "Sales"
+        },
+        "A82": {
+            "t": "s",
+            "v": "Digital Sales & Ops",
+            "r": "<t xml:space=\"preserve\">Digital Sales &amp; Ops</t>",
+            "h": "Digital Sales &amp; Ops",
+            "w": "Digital Sales & Ops"
+        },
+        "B82": {
+            "t": "s",
+            "v": "Sales",
+            "r": "<t xml:space=\"preserve\">Sales</t>",
+            "h": "Sales",
+            "w": "Sales"
+        },
+        "A83": {
+            "t": "s",
+            "v": "Drug and Dollar",
+            "r": "<t xml:space=\"preserve\">Drug and Dollar</t>",
+            "h": "Drug and Dollar",
+            "w": "Drug and Dollar"
+        },
+        "B83": {
+            "t": "s",
+            "v": "Sales",
+            "r": "<t xml:space=\"preserve\">Sales</t>",
+            "h": "Sales",
+            "w": "Sales"
+        },
+        "A84": {
+            "t": "s",
+            "v": "E-commerce",
+            "r": "<t xml:space=\"preserve\">E-commerce</t>",
+            "h": "E-commerce",
+            "w": "E-commerce"
+        },
+        "B84": {
+            "t": "s",
+            "v": "Sales",
+            "r": "<t xml:space=\"preserve\">Sales</t>",
+            "h": "Sales",
+            "w": "Sales"
+        },
+        "A85": {
+            "t": "s",
+            "v": "High End",
+            "r": "<t xml:space=\"preserve\">High End</t>",
+            "h": "High End",
+            "w": "High End"
+        },
+        "B85": {
+            "t": "s",
+            "v": "Sales",
+            "r": "<t xml:space=\"preserve\">Sales</t>",
+            "h": "Sales",
+            "w": "Sales"
+        },
+        "A86": {
+            "t": "s",
+            "v": "Large Format",
+            "r": "<t xml:space=\"preserve\">Large Format</t>",
+            "h": "Large Format",
+            "w": "Large Format"
+        },
+        "B86": {
+            "t": "s",
+            "v": "Sales",
+            "r": "<t xml:space=\"preserve\">Sales</t>",
+            "h": "Sales",
+            "w": "Sales"
+        },
+        "A87": {
+            "t": "s",
+            "v": "Logistics",
+            "r": "<t xml:space=\"preserve\">Logistics</t>",
+            "h": "Logistics",
+            "w": "Logistics"
+        },
+        "B87": {
+            "t": "s",
+            "v": "Sales",
+            "r": "<t xml:space=\"preserve\">Sales</t>",
+            "h": "Sales",
+            "w": "Sales"
+        },
+        "A88": {
+            "t": "s",
+            "v": "Marketing",
+            "r": "<t xml:space=\"preserve\">Marketing</t>",
+            "h": "Marketing",
+            "w": "Marketing"
+        },
+        "B88": {
+            "t": "s",
+            "v": "Sales",
+            "r": "<t xml:space=\"preserve\">Sales</t>",
+            "h": "Sales",
+            "w": "Sales"
+        },
+        "A89": {
+            "t": "s",
+            "v": "Micronesia",
+            "r": "<t xml:space=\"preserve\">Micronesia</t>",
+            "h": "Micronesia",
+            "w": "Micronesia"
+        },
+        "B89": {
+            "t": "s",
+            "v": "Sales",
+            "r": "<t xml:space=\"preserve\">Sales</t>",
+            "h": "Sales",
+            "w": "Sales"
+        },
+        "A90": {
+            "t": "s",
+            "v": "On Premise",
+            "r": "<t xml:space=\"preserve\">On Premise</t>",
+            "h": "On Premise",
+            "w": "On Premise"
+        },
+        "B90": {
+            "t": "s",
+            "v": "Sales",
+            "r": "<t xml:space=\"preserve\">Sales</t>",
+            "h": "Sales",
+            "w": "Sales"
+        },
+        "A91": {
+            "t": "s",
+            "v": "POCM",
+            "r": "<t xml:space=\"preserve\">POCM</t>",
+            "h": "POCM",
+            "w": "POCM"
+        },
+        "B91": {
+            "t": "s",
+            "v": "Sales",
+            "r": "<t xml:space=\"preserve\">Sales</t>",
+            "h": "Sales",
+            "w": "Sales"
+        },
+        "A92": {
+            "t": "s",
+            "v": "Revenue Management",
+            "r": "<t xml:space=\"preserve\">Revenue Management</t>",
+            "h": "Revenue Management",
+            "w": "Revenue Management"
+        },
+        "B92": {
+            "t": "s",
+            "v": "Sales",
+            "r": "<t xml:space=\"preserve\">Sales</t>",
+            "h": "Sales",
+            "w": "Sales"
+        },
+        "A93": {
+            "t": "s",
+            "v": "Trade Marketing",
+            "r": "<t xml:space=\"preserve\">Trade Marketing</t>",
+            "h": "Trade Marketing",
+            "w": "Trade Marketing"
+        },
+        "B93": {
+            "t": "s",
+            "v": "Sales",
+            "r": "<t xml:space=\"preserve\">Sales</t>",
+            "h": "Sales",
+            "w": "Sales"
+        },
+        "A94": {
+            "t": "s",
+            "v": "Unmapped",
+            "r": "<t xml:space=\"preserve\">Unmapped</t>",
+            "h": "Unmapped",
+            "w": "Unmapped"
+        },
+        "B94": {
+            "t": "s",
+            "v": "Sales",
+            "r": "<t xml:space=\"preserve\">Sales</t>",
+            "h": "Sales",
+            "w": "Sales"
+        },
+        "A95": {
+            "t": "s",
+            "v": "VP Commercial",
+            "r": "<t xml:space=\"preserve\">VP Commercial</t>",
+            "h": "VP Commercial",
+            "w": "VP Commercial"
+        },
+        "B95": {
+            "t": "s",
+            "v": "Sales",
+            "r": "<t xml:space=\"preserve\">Sales</t>",
+            "h": "Sales",
+            "w": "Sales"
+        },
+        "A96": {
+            "t": "s",
+            "v": "VP Sales",
+            "r": "<t xml:space=\"preserve\">VP Sales</t>",
+            "h": "VP Sales",
+            "w": "VP Sales"
+        },
+        "B96": {
+            "t": "s",
+            "v": "Sales",
+            "r": "<t xml:space=\"preserve\">Sales</t>",
+            "h": "Sales",
+            "w": "Sales"
+        },
+        "A97": {
+            "t": "s",
+            "v": "Zone Staff",
+            "r": "<t xml:space=\"preserve\">Zone Staff</t>",
+            "h": "Zone Staff",
+            "w": "Zone Staff"
+        },
+        "B97": {
+            "t": "s",
+            "v": "Sales",
+            "r": "<t xml:space=\"preserve\">Sales</t>",
+            "h": "Sales",
+            "w": "Sales"
+        },
+        "!margins": {
+            "left": 0.7,
+            "right": 0.7,
+            "top": 0.75,
+            "bottom": 0.75,
+            "header": 0.511805555555555,
+            "footer": 0.511805555555555
+        }
+    },
+    "Region": {
+        "!ref": "A1:A7",
+        "A1": {
+            "t": "s",
+            "v": "REGION",
+            "r": "<t xml:space=\"preserve\">REGION</t>",
+            "h": "REGION",
+            "w": "REGION"
+        },
+        "A2": {
+            "t": "s",
+            "v": "REGION 01",
+            "r": "<t xml:space=\"preserve\">REGION 01</t>",
+            "h": "REGION 01",
+            "w": "REGION 01"
+        },
+        "A3": {
+            "t": "s",
+            "v": "REGION 02",
+            "r": "<t xml:space=\"preserve\">REGION 02</t>",
+            "h": "REGION 02",
+            "w": "REGION 02"
+        },
+        "A4": {
+            "t": "s",
+            "v": "REGION 03",
+            "r": "<t xml:space=\"preserve\">REGION 03</t>",
+            "h": "REGION 03",
+            "w": "REGION 03"
+        },
+        "A5": {
+            "t": "s",
+            "v": "REGION 04",
+            "r": "<t xml:space=\"preserve\">REGION 04</t>",
+            "h": "REGION 04",
+            "w": "REGION 04"
+        },
+        "A6": {
+            "t": "s",
+            "v": "REGION 05",
+            "r": "<t xml:space=\"preserve\">REGION 05</t>",
+            "h": "REGION 05",
+            "w": "REGION 05"
+        },
+        "A7": {
+            "t": "s",
+            "v": "REGION 06",
+            "r": "<t xml:space=\"preserve\">REGION 06</t>",
+            "h": "REGION 06",
+            "w": "REGION 06"
+        },
+        "!autofilter": {
+            "ref": "A1:A7"
+        },
+        "!margins": {
+            "left": 0.7,
+            "right": 0.7,
+            "top": 0.75,
+            "bottom": 0.75,
+            "header": 0.511805555555555,
+            "footer": 0.511805555555555
+        }
+    }
+}
+
+what i need here is in Tabs (Spend Category and Teams I have added package name corresponding there names so i need to validate in the first sheet if the data for these both columns are according to package or not)
